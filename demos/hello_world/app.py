@@ -1,4 +1,3 @@
-
 def main() -> None:
     t: str = "Alice"
 
@@ -9,6 +8,6 @@ def main() -> None:
     t = "Eric"
     print(type(t))
 
+
 if __name__ == "__main__":
     main()
- 
