@@ -9,5 +9,7 @@ def main() -> None:
     print(type(t))
 
 
+print(f"file_name: {__name__}")
+
 if __name__ == "__main__":
     main()
